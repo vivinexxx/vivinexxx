@@ -26,7 +26,7 @@ Hi there! I'm Vivin, an Informatics student with a deep passion for learning and
 
 ## How to Reach Me 📬
 - **GitHub:** vivinexxx(https://github.com/vivinexxx)
-- **Email:** irvineirianti@example.com
+- **Email:** irvineirianti@gmail.com
 - **LinkedIn:** 
 
 ---
